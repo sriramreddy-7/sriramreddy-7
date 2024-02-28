@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sriram-reddy-koonadi/](https://www.linkedin.com/in/sriram-reddy-koonadi/)
+- 👨‍💻 CHeckout my Linkedin at [https://www.linkedin.com/in/sriram-reddy-koonadi/]
 
 - 📫 How to reach me **kunadisriramreddy733@gmail.com**
 
